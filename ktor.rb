@@ -4,8 +4,8 @@
 class Ktor < Formula
   desc "CLI tool that creates porjects with ktor framework setup"
   homepage "https://github.com/Ololoshechkin/ktor-cli-binary"
-  url "https://github.com/Ololoshechkin/ktor-cli-binary/archive/refs/tags/2.0.0-eap-1.zip"
-  sha256 "9b65b1e411ec6dbfecf4b819540e3abc537fcba2f742fa40048316d5d94dd944"
+  url "https://github.com/Ololoshechkin/ktor-cli-binary/archive/refs/tags/2.0.0-eap-1.tar.gz"
+  sha256 "8495feceadd6ec1d3225338774b5e8acfd2432882754495e8e9434ff25d813a0"
   license ""
 
   # https://youtrack.jetbrains.com/issue/KTOR-4570/Support-ARM-target-in-Ktor-client-with-KotlinNative-and-Curl
