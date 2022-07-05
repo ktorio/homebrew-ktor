@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class KtorCliBinary < Formula
+class Ktor < Formula
   desc "CLI tool that creates porjects with ktor framework setup"
   homepage "https://github.com/Ololoshechkin/ktor-cli-binary"
   url "https://github.com/Ololoshechkin/ktor-cli-binary/archive/refs/tags/2.0.0-eap-1.zip"
