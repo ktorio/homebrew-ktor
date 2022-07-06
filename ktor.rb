@@ -19,8 +19,7 @@ class Ktor < Formula
   end
 
   def install
-    system "./configure", *std_configure_args, "--disable-silent-rules"
-    bin.install "ktor" => "ktor"
+    bin.install "ktor"
   end
 
   test do
