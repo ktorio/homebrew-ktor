@@ -4,7 +4,7 @@
 class Ktor < Formula
   desc "CLI tool that creates porjects with ktor framework setup"
   homepage "https://github.com/Ololoshechkin/ktor"
-  url "https://github.com/Ololoshechkin/ktor-cli-binary/archive/refs/tags/2.0.0-eap-2.tar.gz"
+  url "https://github.com/Ololoshechkin/ktor/archive/refs/tags/2.0.0-eap-2.tar.gz"
   sha256 "cb02de35239ac58a8602944adad6342a078eb28fb6ae3e13b7f9814914fc4931"
   license ""
 
