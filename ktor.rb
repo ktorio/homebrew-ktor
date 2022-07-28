@@ -16,7 +16,7 @@ class Ktor < Formula
   end
 
   def install
-    bin.install "ktor"
+    bin.install "2.1.0-beta-1" => "ktor"
   end
 
   test do
