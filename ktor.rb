@@ -1,6 +1,6 @@
 class Ktor < Formula
   desc "CLI tool that creates porjects with ktor framework setup"
-  homepage "https://github.com/Ololoshechkin/ktor"
+  homepage "https://github.com/ktorio/ktor-cli"
   url "https://packages.jetbrains.team/files/p/ktor/ktor-cli-tool/mac-releases/2.1.0-beta-1"
   sha256 "f62d9e52311d1e631035476c54a1828751749a14e902254926f57d76b36d5520"
   license ""
